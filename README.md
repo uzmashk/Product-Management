@@ -10,7 +10,7 @@ cd react-online-store
 ```
 4. After you extract the project you need to open the project folder in your terminal of choice and write: 
 ```
-cd react-online-store
+npm install
 ```
 5. Run the following command to install packages:
 ```
