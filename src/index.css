@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  background-color: #eee;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Page Not Found */
+.error-template {
+  padding: 40px 15px;text-align: center;
+
+}
+.error-actions {
+  margin-top:15px;margin-bottom:15px;
+}
+
+.error-actions .btn {
+   margin-right:10px;
+}
