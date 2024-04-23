@@ -30,4 +30,9 @@ The following features and functions were implemented:
 - [x] Created add product page to add a new product.
 - [x] Server side response for add, update and delete is function printed using console.log().
 
+## Home page
+<img src="public/Home-page1.png" alt="Home Page">
+<img src="public/Home-page2.png" alt="Home Page">
 
+## Product View Page
+<img src="public/View-page.png" alt="Home Page">
